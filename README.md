@@ -3,7 +3,7 @@ Hi, This is my new portfolio it's built with HTML5,Sass and Js. Features. Respon
 <br />
 
 # ✨ Bushra Aboubida Portfolio ✨
-# Live Preview: [dev-bushra.github.io/bushra-portfolio/](https://dev-bushra.github.io/bushra-portfolio/)
+Live Preview: [dev-bushra.github.io/bushra-portfolio/](https://dev-bushra.github.io/bushra-portfolio/)
 <br />
 
 # Screens
